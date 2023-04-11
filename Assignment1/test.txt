@@ -1,0 +1,6 @@
+This is a sample text file.
+It contains-some words that can be used for testing.
+The words include apple, banana, cat, dog, elephant, fish, grape, and hat.
+This text file can be used to test code that processes text files.
+fish
+
