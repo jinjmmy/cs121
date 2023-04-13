@@ -1,6 +1,7 @@
 import sys
 import partA
 
+#
 def intersection(fileA,fileB):
     fileA_tokens = partA.tokenize(fileA)
     fileB_tokens = partA.tokenize(fileB)
@@ -13,7 +14,7 @@ def intersection(fileA,fileB):
     intersect = setA.intersection(setB)
 
 
-
+# The time complexity of the main() is linear.
 def main():
     files  = sys.argv
     fileA = files[1]
